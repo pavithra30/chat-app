@@ -1,5 +1,6 @@
 var generateMessage=(from,text)=>{
-  console.log("This");
+  console.log("this message");
+  console.log("this message");
   return {
     from,
     text,
