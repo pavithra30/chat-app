@@ -1,4 +1,5 @@
 var generateMessage=(from,text)=>{
+console.log("somethingggh");
 
   return {
     from,
