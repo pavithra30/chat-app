@@ -8,6 +8,8 @@ var generateMessage=(from,text)=>{
   };
 };
 
+console.log("sdhfsdb");
+
 var generateLocationMessage=(from,latitude,longitude)=>{
   return{
     from,
