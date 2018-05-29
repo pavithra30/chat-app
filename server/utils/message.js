@@ -1,10 +1,14 @@
 var generateMessage=(from,text)=>{
+  console.log("this message");
+  console.log("this message");
   return {
     from,
     text,
     createdAt: new Date().getTime()
   };
 };
+
+console.log("sdhfsdb");
 
 var generateLocationMessage=(from,latitude,longitude)=>{
   return{
