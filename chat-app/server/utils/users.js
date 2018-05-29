@@ -4,6 +4,9 @@
   room: 'The office fans'
 }]
 
+
+console.log("simple message");
+
 //addUser(id,name,room)
 //removeUser(id)
 //getUser(id)

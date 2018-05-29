@@ -1,5 +1,4 @@
 var generateMessage=(from,text)=>{
-console.log("Its git demo");
 
   return {
     from,
